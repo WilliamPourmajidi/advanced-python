@@ -1,0 +1,7 @@
+student_id,name,study_hours,attendance_rate,final_grade,status,study_category
+103,Chloe,6.0,98,91,Pass,High Study Time
+105,Emma,5.5,88,86,Pass,High Study Time
+101,Ava,4.5,92,82,Pass,High Study Time
+106,Farah,3.0,75,63,Pass,Low Study Time
+102,Ben,2.0,70,58,Pass,Low Study Time
+104,Daniel,1.5,60,45,Fail,Low Study Time

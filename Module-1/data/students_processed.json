@@ -1,39 +1,11 @@
 [
     {
-        "student_id":103,
-        "name":"Chloe",
-        "study_hours":6.0,
-        "attendance_rate":98,
-        "final_grade":91,
-        "status":"Pass",
-        "study_category":"High Study Time"
-    },
-    {
-        "student_id":105,
-        "name":"Emma",
-        "study_hours":5.5,
-        "attendance_rate":88,
-        "final_grade":86,
-        "status":"Pass",
-        "study_category":"High Study Time"
-    },
-    {
         "student_id":101,
         "name":"Ava",
         "study_hours":4.5,
         "attendance_rate":92,
         "final_grade":82,
-        "status":"Pass",
-        "study_category":"High Study Time"
-    },
-    {
-        "student_id":106,
-        "name":"Farah",
-        "study_hours":3.0,
-        "attendance_rate":75,
-        "final_grade":63,
-        "status":"Pass",
-        "study_category":"Low Study Time"
+        "status":"Pass"
     },
     {
         "student_id":102,
@@ -41,8 +13,15 @@
         "study_hours":2.0,
         "attendance_rate":70,
         "final_grade":58,
-        "status":"Pass",
-        "study_category":"Low Study Time"
+        "status":"Pass"
+    },
+    {
+        "student_id":103,
+        "name":"Chloe",
+        "study_hours":6.0,
+        "attendance_rate":98,
+        "final_grade":91,
+        "status":"Pass"
     },
     {
         "student_id":104,
@@ -50,7 +29,22 @@
         "study_hours":1.5,
         "attendance_rate":60,
         "final_grade":45,
-        "status":"Fail",
-        "study_category":"Low Study Time"
+        "status":"Fail"
+    },
+    {
+        "student_id":105,
+        "name":"Emma",
+        "study_hours":5.5,
+        "attendance_rate":88,
+        "final_grade":86,
+        "status":"Pass"
+    },
+    {
+        "student_id":106,
+        "name":"Farah",
+        "study_hours":3.0,
+        "attendance_rate":75,
+        "final_grade":63,
+        "status":"Pass"
     }
 ]

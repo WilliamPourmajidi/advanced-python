@@ -1,1 +1,45 @@
+node_modules
+.next
+dist
+build
+.turbo
+.DS_Store
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv
+venv/
+
+# Real env files (secrets) — never commit these
 .env
+.env.*
+Module-9/.env
+
+
+# Committed env templates (placeholders only)
+!.env.example
+!backend/.env.example
+!frontend/.env.local.example
+
+# IDE
+.vscode
+.idea
+.claude
+
+# Misc
+coverage/
+.pytest_cache/
+*.sqlite3
+
+# Local test/debug artefacts (HAR files, browser recordings)
+Test-dev/
+*.har
+
+# Database backups (scripts/db_backup.py) — contain real volunteer PII
+backups/
+
+# Local backup runner - contains the database password (see scripts/db_backup.py)
+backup.bat
+
